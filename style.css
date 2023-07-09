@@ -1,0 +1,146 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2015/08/24/red-black-background.jpg);
+    background-repeat: repeat;
+    width:100%;
+    color: white;
+    overflow:hidden visible;
+}
+.logo{
+    width: 20%;
+    
+}
+.tag{
+    color: white;
+    font-size: 350%;
+    margin-left: 19%;
+    margin-right: 60%;
+    border-radius: 10px;
+    margin-top: 1%;
+    background-color: black;
+}
+#product{
+    font-style: italic;
+    font: weight 300px; ;
+}
+.headphone{
+    margin-top: -20%;
+    margin-left: 50%;
+}
+.btn{
+   margin-top: 3%;
+   margin-left: 16%;
+    padding: 1%;
+    font-size: 100%;
+    border-spacing:1%;
+    width: 8%;
+    border-radius: 30px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    background-image: linear-gradient(rgb(226, 34, 34), rgb(222, 139, 16));
+}
+.btn:hover{
+    background-color: red;
+    border-color: red;
+    box-shadow: 4px 3px rgb(234, 89, 89);
+    color: white;
+    transform: translateY(-10px);
+}
+.technology{
+    background-color: black;
+    color: white;
+    border: solid rgb(35, 162, 201);
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right:55%;
+    border-radius: 20px;
+}
+.heading{
+    margin-left: 2%;
+    font-size: 300%;
+}
+.new-tech-info{
+    font-size: 100%;
+    margin-top: -5%;
+    margin-left: 5%;
+}
+.wifi{
+    width: 15%;
+    margin-top: -100%;
+    margin-left: 50%;
+}
+.shop-heading{
+    font-size: 300%;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+ul li{
+    display:inline-flexbox;
+    text-decoration: none;
+    list-style: none;
+}
+.prod{
+    border: solid;
+    border-radius: 30px;
+    padding: 1%;
+    width: 20%;
+    height: 20%;
+    background-color:black ;
+    transition: 0.5s;
+}
+.prod:hover{
+    transform: translateY(-20px);
+}
+.prod1{
+    margin-left: 3%;
+    width: 90%;
+    text-decoration: none;
+}
+.prod-info{
+    align-items: center;
+}
+.prod2{
+    width: 90%;
+    text-decoration: none;
+    margin-left: 36%;
+    margin-right: 0%;
+    margin-top: -27%;
+}
+.prod3{
+    width: 90%;
+    text-decoration: none;
+    margin-left: 70%;
+    margin-top: -27%;
+}
+.address{
+    background-color: black;
+    margin-left: 30%;
+    font-size: 120%;
+    margin-right: 50%;
+    border: solid;
+    border-radius: 30px;
+    padding: 1%;
+    border-color: blueviolet;
+}
+.social-media{
+    background-color: black;
+    border: solid;
+    border-radius: 30px;
+    border-color: blueviolet;
+    margin-left: 60%;
+    margin-top: -10%;
+    margin-right: 30%;
+    font-size: 120%;
+}
+ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    transition: 0.5s;
+}
+ul li a:hover{
+    color: red;
+    transform: translateY(-5px);
+}
